@@ -1,2 +1,2 @@
-# Galaxy
-This is simple responsive website about galaxy
+# Galaxy.github.oi
+A website that tells you about our galxies in space
